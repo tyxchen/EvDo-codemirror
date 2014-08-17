@@ -9,3 +9,7 @@ var gulp = require('gulp'),
     concat = require('gulp-concat'),
     notify = require('gulp-notify');
 
+gulp.task('codemirror', function () {
+  return;
+});
+
